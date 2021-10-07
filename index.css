@@ -3,7 +3,12 @@ body {
     background-color: black;
 }
 
-section {
+#header {
+    color: rgb(253, 253, 253);
+    background-color: blueviolet;
+}
+
+#first-meal {
     color: rgb(253, 253, 253);
     background-color: blueviolet;
 }
