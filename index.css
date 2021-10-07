@@ -15,7 +15,8 @@ body {
     align-items: center;
 } */
 
-#Fish-meal {
+
+/* #Fish-meal {
     border-radius: 25%;
     align-content: center;
     margin: 25px;
@@ -24,6 +25,14 @@ body {
 }
 
 #BBQ-meal {
+    border-radius: 25%;
+    align-content: center;
+    margin: 25px;
+    height: 30vh;
+    width: 30vw;
+} */
+
+img {
     border-radius: 25%;
     align-content: center;
     margin: 25px;
