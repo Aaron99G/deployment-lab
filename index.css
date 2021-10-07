@@ -14,13 +14,13 @@ body {
 }
 
 img[alt="Fish-meal"] {
-    margin: 0px;
+    margin: 25px;
     height: 150px;
     width: 150px;
 }
 
 img[alt="BBQ-meal"] {
-    margin: 0px;
+    margin: 25px;
     height: 150px;
     width: 150px;
 }
