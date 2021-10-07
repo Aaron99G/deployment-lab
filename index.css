@@ -10,17 +10,19 @@ body {
 
 #first-meal {
     color: rgb(0, 0, 0);
-    background-color: #35CE8D;
+    background-color: #93827F;
 }
 
 img[alt="Fish-meal"] {
+    align-content: center;
     margin: 25px;
-    height: 150px;
-    width: 150px;
+    height: 30vh;
+    width: 30vw;
 }
 
 img[alt="BBQ-meal"] {
+    align-content: center;
     margin: 25px;
-    height: 150px;
-    width: 150px;
+    height: 30vh;
+    width: 30vw;
 }
