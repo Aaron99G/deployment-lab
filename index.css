@@ -15,14 +15,12 @@ body {
 
 img[alt="Fish-meal"] {
     margin: 0px;
-    height: 250px;
-    width: 250px;
-    border-radius: 25%;
+    height: 150px;
+    width: 150px;
 }
 
 img[alt="BBQ-meal"] {
     margin: 0px;
-    height: 250px;
-    width: 250px;
-    border-radius: 25%;
+    height: 150px;
+    width: 150px;
 }
