@@ -13,7 +13,7 @@ body {
     background-color: #93827F;
 }
 
-img[alt="Fish-meal"] {
+#Fish-meal {
     border-radius: 25%;
     align-content: center;
     margin: 25px;
@@ -21,7 +21,7 @@ img[alt="Fish-meal"] {
     width: 30vw;
 }
 
-img[alt="BBQ-meal"] {
+#BBQ-meal {
     border-radius: 25%;
     align-content: center;
     margin: 25px;
