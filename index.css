@@ -14,6 +14,7 @@ body {
 }
 
 img[alt="Fish-meal"] {
+    border-radius: 25%;
     align-content: center;
     margin: 25px;
     height: 30vh;
@@ -21,6 +22,7 @@ img[alt="Fish-meal"] {
 }
 
 img[alt="BBQ-meal"] {
+    border-radius: 25%;
     align-content: center;
     margin: 25px;
     height: 30vh;
